@@ -1,0 +1,12 @@
+fastapi
+pydantic 
+datetime
+joblib
+pandas
+uvicorn
+python-multipart
+scikit-learn
+lightgbm
+xgboost
+tqdm
+numpy
